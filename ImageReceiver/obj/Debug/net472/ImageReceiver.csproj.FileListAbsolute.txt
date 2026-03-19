@@ -1,0 +1,12 @@
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\bin\Debug\net472\ImageReceiver.exe.config
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\bin\Debug\net472\ImageReceiver.exe
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\bin\Debug\net472\ImageReceiver.pdb
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\bin\Debug\net472\QRCoder.dll
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.csproj.AssemblyReference.cache
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.AssemblyInfoInputs.cache
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.AssemblyInfo.cs
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.csproj.CoreCompileInputs.cache
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageRec.CDCD72E4.Up2Date
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.exe
+C:\Users\1582670\Development\ImageReceiver\ImageReceiver\obj\Debug\net472\ImageReceiver.pdb

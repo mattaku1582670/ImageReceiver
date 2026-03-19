@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet restore ImageReceiver/ImageReceiver.csproj)",
+      "Bash(dotnet build ImageReceiver/ImageReceiver.csproj)"
+    ]
+  }
+}
