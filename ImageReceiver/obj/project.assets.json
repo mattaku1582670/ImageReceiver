@@ -479,19 +479,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1582670\\.nuget\\packages\\": {}
+    "C:\\Users\\matta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1582670\\Development\\ImageReceiver\\ImageReceiver\\ImageReceiver.csproj",
+      "projectUniqueName": "C:\\repos\\ImageReceiver\\ImageReceiver\\ImageReceiver.csproj",
       "projectName": "ImageReceiver",
-      "projectPath": "C:\\Users\\1582670\\Development\\ImageReceiver\\ImageReceiver\\ImageReceiver.csproj",
-      "packagesPath": "C:\\Users\\1582670\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1582670\\Development\\ImageReceiver\\ImageReceiver\\obj\\",
+      "projectPath": "C:\\repos\\ImageReceiver\\ImageReceiver\\ImageReceiver.csproj",
+      "packagesPath": "C:\\Users\\matta\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\ImageReceiver\\ImageReceiver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1582670\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\matta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net472"
@@ -515,7 +515,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net472": {
@@ -532,7 +532,7 @@
             "version": "[1.4.3, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

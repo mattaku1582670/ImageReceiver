@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "29BAcV+Bjio=",
+  "dgSpecHash": "m0PVWEK+Vb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1582670\\Development\\ImageReceiver\\ImageReceiver\\ImageReceiver.csproj",
+  "projectFilePath": "C:\\repos\\ImageReceiver\\ImageReceiver\\ImageReceiver.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\1582670\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
-    "C:\\Users\\1582670\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
-    "C:\\Users\\1582670\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+    "C:\\Users\\matta\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\matta\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
+    "C:\\Users\\matta\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
   ],
   "logs": []
 }
